@@ -1,3 +1,9 @@
+https://nikitosgolubev.github.io/emailLetterSmsServiceTemplate/
+
+https://nikitosgolubev.github.io/emailLetterSmsServiceTemplate/
+
+https://nikitosgolubev.github.io/emailLetterSmsServiceTemplate/
+
 # Email Letter for SMS Service Template
 August of 2016.
 
